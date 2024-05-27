@@ -1,0 +1,8 @@
+ID: 1 aþaðý geçiþ yaptý, zamaný: Mon May 27 13:30:48 2024
+ID: 2 aþaðý geçiþ yaptý, zamaný: Mon May 27 13:30:54 2024
+ID: 3 aþaðý geçiþ yaptý, zamaný: Mon May 27 13:30:58 2024
+ID: 5 yukarý geçiþ yaptý, zamaný: Mon May 27 13:31:01 2024
+ID: 7 aþaðý geçiþ yaptý, zamaný: Mon May 27 13:31:03 2024
+ID: 9 yukarý geçiþ yaptý, zamaný: Mon May 27 13:31:04 2024
+ID: 10 yukarý geçiþ yaptý, zamaný: Mon May 27 13:31:04 2024
+ID: 9 aþaðý geçiþ yaptý, zamaný: Mon May 27 13:31:09 2024
